@@ -2,18 +2,20 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("#{$header-image}");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
+//  background-image: url("#{$header-image}");
+//  background-repeat: no-repeat;
+//  background-attachment: scroll;
+//  background-position: center center;
+//  background-size: cover;
+  background-color: #000;
   .intro-text {
-    padding-top: 150px;
-    padding-bottom: 100px;
+    padding-top: 180px;
+    padding-bottom: 50px;
     .intro-lead-in {
-      font-size: 22px;
+      color: $gray-600;      
+      font-size: 20px;
       font-style: italic;
-      line-height: 22px;
+      line-height: 20px;
       margin-bottom: 25px;
       @include serif-font;
     }
@@ -21,7 +23,7 @@ header.masthead {
       font-size: 50px;
       font-weight: 700;
       line-height: 50px;
-      margin-bottom: 25px;
+      margin-bottom: 200px;
       @include heading-font;
     }
   }
@@ -29,20 +31,22 @@ header.masthead {
 @media(min-width:768px) {
   header.masthead {
     .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
+      padding-top: 150px;
+      padding-bottom: 50px;
       .intro-lead-in {
-        font-size: 40px;
+        color: $gray-600;
+        font-size: 30px;
         font-style: italic;
-        line-height: 40px;
-        margin-bottom: 25px;
+        line-height: 50px;
+        margin-top: 60px;        
+        margin-bottom: 0px;
         @include serif-font;
       }
       .intro-heading {
         font-size: 75px;
         font-weight: 700;
-        line-height: 75px;
-        margin-bottom: 50px;
+        line-height: 200px;
+        margin-bottom: 20px;
         @include heading-font;
       }
     }

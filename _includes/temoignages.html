@@ -1,0 +1,52 @@
+<!-- TEMOIGNAGES -->
+  <section class="page-section" id="{{ site.data.sitetext.temoignages.section | default: temoignages }}">
+    <div class="container">
+	      <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase text-left mb-4">{{ site.data.sitetext.temoignages.title | default: "QU'EN DISENT-ILS ?" }}</h2>
+          </div>
+        </div>
+        <h3 class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title1" }}</h3>   
+        <div class="row">
+          {%- for post in site.data.sitetext.temoignages.videos -%}
+            <div class="col-md">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="{{ post.url }}" allowfullscreen></iframe>
+              </div>
+              <div class="text-muted text-justify">{{ post.who | markdownify }}</div>	
+            </div>
+          {% endfor %}
+        </div>
+        <h3 class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title2" }}</h3>   
+        <div class="row">
+          {%- for post in site.data.sitetext.temoignages.anecdotes -%}
+            <div class="col-md">
+              <div class=row>
+              <div class="col-md">
+                <div class="text-muted text-justify">{{ post.text | markdownify }}</div>	
+              </div>
+              <div class="col-md">
+                <img class="mx-auto rounded-circle img-fluid" alt="Responsive image" src="{{ post.img }}"></img>
+              </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>        
+        <h3 class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title3" }}</h3>   
+        <div class="row">
+          {%- for post in site.data.sitetext.temoignages.conseils -%}
+            <div class="col-md">
+              <div class=row>
+              <div class="col-md">
+                <div class="text-muted text-justify">{{ post.text | markdownify }}</div>	
+              </div>
+              <div class="col-md">
+                <img class="mx-auto rounded-circle img-fluid" alt="Responsive image" src="{{ post.img }}"></img>
+              </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>   
+      </div>
+  </section>
+<!-- End Services -->

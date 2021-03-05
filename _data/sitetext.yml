@@ -1,126 +1,138 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: "*« Avec les étudiants vers le monde professionnel »*"
+    text: ""
+    button: ""
+    buttonlink: "#enBref"
 
-services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+enBref:
+    title: "En bref"
+    text: ""
+    section: enBref
+    citation: "*« Le passé, le continent sont déjà laissés en arrière ; le futur, c’est l’ouverture béante dans le flanc
+du navire ; le bord du quai avec toute sa turbulence et sa confusion, c’est le présent. Une fois la passerelle franchie, la vision du monde s’ordonne ...»*<br>Francis Scott Fitzgerald, Tendre est la nuit."
+    pitch: "Passer(elles) est la collaboration de deux tourangelles de terrain avec pour quotidien le conseil, la pédagogie, l’accompagnement, le recrutement et l’intégration. Notre ambition est le conseil et la préparation à l’employabilité des jeunes.<br>Pour passer d’un monde à l’autre avec succès, nous aiguillerons les étudiants avec une intervention sur mesure à leur cursus, ils disposeront d’une boite à outils et s’ils souhaitent aller plus loin nous les rencontrerons individuellement pour s’entrainer, activer les leviers et personnaliser leur approche face aux attendus des recruteurs.
+Dans cette dernière ligne droite et dans un engagement partagé, les étudiants gagneront en temps, en énergie et en confiance afin que cette acculturation soit la plus sereine et courte possible.<br>
+Tous acteurs de l’employabilité et de l’inclusion professionnelle face à un marché du travail en perpétuelle évolution."
+    imageMeggie: assets/img/team/meggie.jpg
+    imageAnneFred: assets/img/team/anneFred.jpg
 
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+programme:
+    title: "DEMANDEZ LE PROGRAMME"
+    text: ""
+    section: programme
+    etablissementTitre: "Vous êtes un lycée professionnel ou un établissement du supérieur ?"
+    etablissementTexte: "*Votre établissement forme quelques-uns des 750 000 étudiants qui sont en dernière année de cursus et qui vont arriver sur le marché de l’emploi. Voulez-vous enrichir votre offre de formation, valoriser votre image d’incubateur de futurs actifs et booster vos taux d’insertion professionnelle ?<br><br>
+Sur cette dernière, année en France, le nombre d’offres de stages a diminué de 37 % (Glassdoor) le taux de chômage progresse davantage pour les jeunes que pour les autres tranches d’âge (PE) et le temps de recherche s’allonge pour qu’au final un tiers des étudiants se retranchent sur un job sans lien avec les études faites (source).<br><br>
+Nous intervenons au sein d’établissements supérieurs auprès des promotions en dernière année qui ont pour objectif de décrocher leur stage de fin d’études, une alternance, ou le premier emploi.*"
+    etudiantTitre: "Vous êtes étudiants ?<br><br>"
+    etudiantTexte: "*Vous êtes étudiants en fin de cycle et allez vivre une période de transition et d’ouverture : la fin de vos études qui vous mènera vers votre premier emploi, vers un autre monde, vers un nouveau champ des possibles pour une nouvelle vie !<br><br>
+Les attentes autour de vous vont être fortes : celles de votre famille, vos amis, vos professeurs : « Alors, tu en es où ? Tu as trouvé quelques chose
+? Tu as fait quoi aujourd’hui ? » Bref...Vous allez être observé(e) et voire jaugé(e) ! Comment bien s’équiper pour traverser de façon positive cette période de transition ? Qui écouter ? Quels conseils suivre ? Quelles seront vos priorités ?<br><br>
+Nous répondrons à toutes ces questions, et plus encore afin que vous échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous allez bénéficier, avant la fin de vos études, d’un accompagnement personnalisé complet comprenant outils, conseils, témoignages de recruteurs, partages d’expériences sur le ou les thèmes de votre choix.*"
+    parentTitre: "Vous êtes parents ?<br><br>"
+    parentTexte: "*Vous êtes parents d’étudiants et financez une partie ou en intégralité cette phase de transition avant leur indépendance et vous êtes forcément soucieux quand l’heure de l’entrée sur le marché du travail approche.<br><br>
+En effet, les phases de recherches peuvent s’allonger et quand les démarches jouent les prolongations cela peut provoquer une perte de motivation chez les jeunes alors qu’il est nécessaire de rester dans l’action et garder le cap. Et puis, les études terminées c’est une nouvelle étape qui commence et mieux vaut être bien équipé et en phase avec son environnement pour être le plus efficient possible.<br><br>
+Nous accompagnons vos enfants en fonction de leurs besoins individuels, par des entretiens personnalisés.*"
+    progTexte1: "*- Avec un groupe de 10 à 20 étudiants, partons pour six heures d’animation par notre binôme et d’échanges avec les étudiants autour des sujets suivants.*<br>- Tarif : nous consulter"
+    progTexte2: "*- En entretien individuel, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur ces sujets pendant 1h15.*<br>- Tarif : 58€ la séance comprenant un échange post RDV."
+    progTexte3: "*- En support à distance, tout au long de l’année, correction et optimisation de votre CV, lettre de motivation et profil LinkedIn.*<br>- Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien LinkedIn."
+
+presentation:
+    title: "faisons connaissance"
+    text: ""
+    section: presentation
+    imageMeggie: assets/img/team/meggie.jpg
+    imageAnneFred: assets/img/team/anneFred.jpg
+    AnneFred:
+        titre: "Anne-Frédérique"
+        ref: "Ses références"  
+        refTexte:
+          "**Au quotidien**<br>
+           • Accompagnement personnalisé de chercheurs d’emploi<br>
+           • Conseil en évolution professionnelle<br>
+           • Sourcing de candidats<br>
+           • Préparation des candidats à leurs futures rencontres avec les recruteurs<br>
+           • Aide au ciblage des offres et opportunités d’emplois<br>
+           • Conseil autour des diverses techniques de recherches d’emploi<br><br>
+          **Mais aussi...**<br>
+           • Animation de séances d’appropriations d’évolutions diverses<br>
+           • Animation d’ateliers<br>
+           • Animations de formations internes<br>
+           • Entretiens de recrutement<br>"
+        parcours: "Son parcours"
+        parcoursTexte: 
+          "De formation universitaire en sciences humaines,
+Anne-Frédérique a occupé des postes de chargée de recrutement en ESN essentiellement avant d’intégrer le service public de l’emploi. D’un poste à un autre, les fonctions et les activités sont variées mais souvent en lien avec les Ressources Humaines (aide au recrutement pour les entreprises clientes, recrutement de nouveaux collaborateurs PE, formatrice, manager de proximité). Mais aussi organisation de forums pour l’emploi, de job dating, d’évènements autour de la Formation professionnelle... Anne Frédérique est centrée aujourd’hui sur le Conseil en Evolution Professionnelle auprès d’un public jeune dans le cadre du plan gouvernemental, 1 jeune 1 solution."
+    Meggie: 
+        titre: "Meggie"
+        ref: "Ses références"  
+        refTexte:
+          "• Réaliser des opérations de sourcing<br>
+          • Recrutement de candidats tous niveaux<br>
+          • Prospection des entreprises et partenaires<br>
+          • Placement de collaborateurs chez différents clients<br>
+          • Aide à la construction du CV, LM et entretien<br>
+          • Intégration nouveaux collaborateurs<br>
+          • Animation d’ateliers et de formation<br>
+          • Dispense de cours en universités et écoles<br>"          
+        parcours: "Son parcours"
+        parcoursTexte: 
+          "Côté études, Meggie a obtenu deux masters dans la formation, l’accompagnement, l’emploi ainsi qu’un master professionnel axé commerce en formation continue plus récemment. Depuishuitans,Meggie travaille en tant que consultante ressources humaines et commerce au sein d’une entreprise de services du numérique. Elle recrute, intègre et place différents profils chez ses clients multisectoriels du coin. Elle intervient depuis plusieurs années dans les écoles et universités de la région afin de former les étudiants sur ces sujets et partager ses retours d’expérience."      
     
+temoignages:
+    title: "qu'en disent-ils ?" 
+    text: ""
+    section: temoignages
+    videos: 
+      - title: ""
+        url: https://www.youtube.com/embed/wfxt1SGWAI8
+        who: "légende, nom prénom"
+      - title: ""
+        url: https://www.youtube.com/embed/km6gUbW8s28
+        who: "légende, nom prénom"
+      - title: ""
+        url: https://www.youtube.com/embed/j-48Xg2cKyg
+        who: "légende, nom prénom"
+    anecdotes: 
+      - title: ""
+        text: "blabla blablalba"
+        img: assets/img/team/anneFred.jpg
+      - title: ""
+        text: "blabla blablalba"
+        img: assets/img/team/meggie.jpg
+      - title: ""
+        text: "blabla blablalba"
+        img: assets/img/team/anneFred.jpg
+      - title: ""
+        text: "blabla blablalba"
+        img: assets/img/team/meggie.jpg
+    conseils: 
+      - title: ""
+        text: "trulu lu lu "
+        img: assets/img/team/anneFred.jpg     
+      - title: ""
+        text: "trulu lu lu "
+        img: assets/img/team/anneFred.jpg 
+      - title: ""
+        text: "trulu lu lu "
+        img: assets/img/team/anneFred.jpg                                       
+    title1: "En vidéo :"
+    title2: "Leur anectode :"
+    title3: "Un conseil :"
 
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        # you can enforce the aligment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
-team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact"
+    text: ""
     section: contact
+    subtitle1: "Rentrons en contact"
+    subtitle2: "Suivez-nous"
+    mail: "passerelles@gmail.com"
+    tel: "0606060606"
+    urllinked: https://linkedin.com
+    iconlinked: "fab fa-linkedin-in"
+    urlinsta: https://instagram.com
+    iconinsta: "fab fa-instagram"    
     
 footer:
     legal: "Privacy Policy"

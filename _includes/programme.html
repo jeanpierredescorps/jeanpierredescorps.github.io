@@ -1,0 +1,41 @@
+<!-- PROGRAMME -->
+  <section class="page-section" id="{{ site.data.sitetext.programme.section | default: "programme" }}">
+    <div class="container">
+	
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.programme.title | default: "DEMANDEZ LE PROGRAMME" }}</h2>
+        </div>
+      </div>
+
+      <div class="row text-left">
+        <div class="col-md-4">
+          <h6 class="text">{{ site.data.sitetext.programme.etablissementTitre | markdownify }}</h6>	
+          <div class="text-muted text-justify">{{ site.data.sitetext.programme.etablissementTexte | markdownify }}</div>	
+        </div>
+        <div class="col-md-4">
+          <h6 class="text">{{ site.data.sitetext.programme.etudiantTitre | markdownify }}</h6>	
+          <div class="text-muted text-justify">{{ site.data.sitetext.programme.etudiantTexte | markdownify }}</div>	
+        </div>
+        <div class="col-md-4">
+          <h6 class="text">{{ site.data.sitetext.programme.parentTitre | markdownify }}</h6>	
+          <div class="text-muted text-justify">{{ site.data.sitetext.programme.parentTexte | markdownify }}</div>	
+        </div>
+      </div>	
+      <div class="row text-left border">
+        <div class="col-md-4">
+	  <div class="text-primary text-justify">{{ site.data.sitetext.programme.progTexte1 | markdownify }}</div>	
+	</div>
+        <div class="col-md-4">
+	  <div class="text-primary text-justify">{{ site.data.sitetext.programme.progTexte2 | markdownify }}</div>	
+        </div>
+        <div class="col-md-4">
+	  <div class="text-primary text-justify">{{ site.data.sitetext.programme.progTexte3 | markdownify }}</div>	
+        </div>
+
+      </div>	
+
+      </div>
+    </div>
+  </section>
+<!-- End Services -->

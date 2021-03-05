@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: 1.4;
 }
 
 a {
@@ -30,24 +30,26 @@ h6 {
 }
 
 .page-section {
-  padding: 100px 0;
+  font-size: 14px;
+  padding: 30px 0;
   h2.section-heading {
     font-size: 40px;
-    margin-top: 0;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    @include serif-font;
   }
-  h3.section-subheading {
-    font-size: 16px;
-    font-weight: 400;
-    font-style: italic;
-    margin-bottom: 75px;
+  h3 {
+    color: black;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 0px;
     text-transform: none;
     @include serif-font;
   }
 }
 @media(min-width:768px) {
   section {
-    padding: 150px 0;
+    padding: 70px 0;
   }
 }
 

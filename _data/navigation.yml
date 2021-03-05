@@ -1,16 +1,16 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "EN BREF"
+    section: enBref
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "PROGRAMME"
+    section: programme
     
-  - title: "About"
-    section: timeline
+  - title: "PRÉSENTATON"
+    section: presentation
 
-  - title: "Team"
-    section: team
+  - title: "TÉMOIGNAGES"
+    section: temoignages
 
-  - title: "Contact"
+  - title: "CONTACT"
     section: contact
 

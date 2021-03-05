@@ -1,6 +1,6 @@
 // Styling for the navbar
 #mainNav {
-  background-color: $gray-900;
+  background-color: #000;
   .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -24,12 +24,12 @@
   .navbar-nav {
     .nav-item {
       .nav-link {
-        font-size: 90%;
+        font-size: 100%;
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
         color: white;
-        @include heading-font;
+        @include serif-font;
         &.active,
         &:hover {
           color: $primary;
@@ -63,7 +63,7 @@
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
-      background-color: $gray-900;
+      background-color: #000;
       .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;
