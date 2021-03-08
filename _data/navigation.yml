@@ -2,6 +2,9 @@ nav:
   - title: "EN BREF"
     section: enBref
 
+  - title: "SAVOIR FAIRE"
+    section: savoirFaire
+
   - title: "PROGRAMME"
     section: programme
     

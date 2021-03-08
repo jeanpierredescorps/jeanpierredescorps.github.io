@@ -1,25 +1,17 @@
 <!-- EN BREF -->
   <section class="page-section" id="{{ site.data.sitetext.enBref.section | default: enBref }}">
     <div class="container">
-	   	<div class="row">
-    	    <div class="col-lg-12 text-center">
-        	  	<h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.enBref.title | markdownify| default: "EN BREF" }}</h2>
-        	</div>
-		</div>
+        <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.enBref.title | markdownify| default: "EN BREF" }}</h2>
       	<div class="row text-center">
-	    <div class="col-md-6">
-	  		<div class="text-muted text-justify">{{ site.data.sitetext.enBref.pitch | markdownify }}</div>	
-        </div>
-		<div class="col-md-3">
-	  		<img class="mx-auto rounded-circle" src="{{ site.data.sitetext.enBref.imageMeggie }}" alt=""></img>
-	  		<img class="mx-auto rounded-circle" src="{{ site.data.sitetext.enBref.imageAnneFred }}" alt=""></img>
+			<div class="col-md">
+				<div class="text-muted text-left">{{ site.data.sitetext.enBref.pitch | markdownify }}</div>	
+			</div>
+			<div class="col-md">
+				<img class="mx-auto rounded-circle" src="{{ site.data.sitetext.enBref.imageMeggie }}" alt=""></img>
+				<img class="mx-auto rounded-circle" src="{{ site.data.sitetext.enBref.imageAnneFred }}" alt=""></img>
+			</div>
 		</div>
-
-        	<div class="col-md-3">
-		  		<div class="text-primary">{{ site.data.sitetext.enBref.citation | markdownify }}</div>	
-        	</div>
-        </div>
-      </div>
+        <div class="text-primary text-left">{{ site.data.sitetext.enBref.citation | markdownify }}</div>	
     </div>
   </section>
 <!-- End Services -->

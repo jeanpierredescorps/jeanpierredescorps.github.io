@@ -10,32 +10,66 @@ enBref:
     section: enBref
     citation: "*« Le passé, le continent sont déjà laissés en arrière ; le futur, c’est l’ouverture béante dans le flanc
 du navire ; le bord du quai avec toute sa turbulence et sa confusion, c’est le présent. Une fois la passerelle franchie, la vision du monde s’ordonne ...»*<br>Francis Scott Fitzgerald, Tendre est la nuit."
-    pitch: "Passer(elles) est la collaboration de deux tourangelles de terrain avec pour quotidien le conseil, la pédagogie, l’accompagnement, le recrutement et l’intégration. Notre ambition est le conseil et la préparation à l’employabilité des jeunes.<br>Pour passer d’un monde à l’autre avec succès, nous aiguillerons les étudiants avec une intervention sur mesure à leur cursus, ils disposeront d’une boite à outils et s’ils souhaitent aller plus loin nous les rencontrerons individuellement pour s’entrainer, activer les leviers et personnaliser leur approche face aux attendus des recruteurs.
-Dans cette dernière ligne droite et dans un engagement partagé, les étudiants gagneront en temps, en énergie et en confiance afin que cette acculturation soit la plus sereine et courte possible.<br>
-Tous acteurs de l’employabilité et de l’inclusion professionnelle face à un marché du travail en perpétuelle évolution."
+    pitch: "**Passer(elles)** est la collaboration de deux tourangelles de **terrain** avec pour quotidien **le conseil, la pédagogie, l’accompagnement, le recrutement et l’intégration professionnelle**.  Notre ambition ? La préparation des jeunes à leur **employabilité** face à un marché du travail en perpétuelle **évolution**.<br><br>
+ **Pour passer d’un monde à l’autre avec succès :**<br>
+
+<ul>
+<li>Nous aiguillons les étudiants avec une intervention sur mesure à leur cursus au sein de leur lieu d'études.</li>
+<li>A domicile et en individuel, nous <strong>personnalisons l'accompagnement des étudiants</strong> afin d'activer les leviers et travailler leur approche face aux attendus des recruteurs.</li>
+<li>A distance et également en individuel, nous apportons une relecture aux supports de recherche (CV, LM et profil professionnel en ligne).</li>
+</ul>
+Dans cette dernière ligne droite et dans un **engagement** partagé, les étudiants gagneront **en temps, en énergie et en confiance** afin que cette **acculturation** soit la plus sereine et courte possible."
     imageMeggie: assets/img/team/meggie.jpg
     imageAnneFred: assets/img/team/anneFred.jpg
+
+savoirFaire:
+    title: "Notre savoir faire"
+    text: ""
+    section: savoirFaire
+    listTitle: "Les sujets d'expertise sur lesquels nous intervenons :"
+    list: "
+    <ul>
+      <li>Le projet professionnel</li>
+      <li>La e-réputation</li>
+      <li>La méthodologie de recherche</li>
+      <li>Les compétences et le pitch</li>
+      <li>Le CV</li>
+      <li>La lettre de motivation</li>
+      <li>La candidature</li>
+      <li>La pré qualification</li>
+      <li>L’entretien</li>
+      <li>Le post entretien</li>
+      <li>L’intégration en entreprise</li>
+    </ul>
+    "
+
 
 programme:
     title: "DEMANDEZ LE PROGRAMME"
     text: ""
     section: programme
-    etablissementTitre: "Vous êtes un lycée professionnel ou un établissement du supérieur ?"
-    etablissementTexte: "*Votre établissement forme quelques-uns des 750 000 étudiants qui sont en dernière année de cursus et qui vont arriver sur le marché de l’emploi. Voulez-vous enrichir votre offre de formation, valoriser votre image d’incubateur de futurs actifs et booster vos taux d’insertion professionnelle ?<br><br>
-Sur cette dernière, année en France, le nombre d’offres de stages a diminué de 37 % (Glassdoor) le taux de chômage progresse davantage pour les jeunes que pour les autres tranches d’âge (PE) et le temps de recherche s’allonge pour qu’au final un tiers des étudiants se retranchent sur un job sans lien avec les études faites (source).<br><br>
-Nous intervenons au sein d’établissements supérieurs auprès des promotions en dernière année qui ont pour objectif de décrocher leur stage de fin d’études, une alternance, ou le premier emploi.*"
-    etudiantTitre: "Vous êtes étudiants ?<br><br>"
-    etudiantTexte: "*Vous êtes étudiants en fin de cycle et allez vivre une période de transition et d’ouverture : la fin de vos études qui vous mènera vers votre premier emploi, vers un autre monde, vers un nouveau champ des possibles pour une nouvelle vie !<br><br>
-Les attentes autour de vous vont être fortes : celles de votre famille, vos amis, vos professeurs : « Alors, tu en es où ? Tu as trouvé quelques chose
-? Tu as fait quoi aujourd’hui ? » Bref...Vous allez être observé(e) et voire jaugé(e) ! Comment bien s’équiper pour traverser de façon positive cette période de transition ? Qui écouter ? Quels conseils suivre ? Quelles seront vos priorités ?<br><br>
-Nous répondrons à toutes ces questions, et plus encore afin que vous échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous allez bénéficier, avant la fin de vos études, d’un accompagnement personnalisé complet comprenant outils, conseils, témoignages de recruteurs, partages d’expériences sur le ou les thèmes de votre choix.*"
-    parentTitre: "Vous êtes parents ?<br><br>"
-    parentTexte: "*Vous êtes parents d’étudiants et financez une partie ou en intégralité cette phase de transition avant leur indépendance et vous êtes forcément soucieux quand l’heure de l’entrée sur le marché du travail approche.<br><br>
-En effet, les phases de recherches peuvent s’allonger et quand les démarches jouent les prolongations cela peut provoquer une perte de motivation chez les jeunes alors qu’il est nécessaire de rester dans l’action et garder le cap. Et puis, les études terminées c’est une nouvelle étape qui commence et mieux vaut être bien équipé et en phase avec son environnement pour être le plus efficient possible.<br><br>
-Nous accompagnons vos enfants en fonction de leurs besoins individuels, par des entretiens personnalisés.*"
-    progTexte1: "*- Avec un groupe de 10 à 20 étudiants, partons pour six heures d’animation par notre binôme et d’échanges avec les étudiants autour des sujets suivants.*<br>- Tarif : nous consulter"
-    progTexte2: "*- En entretien individuel, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur ces sujets pendant 1h15.*<br>- Tarif : 58€ la séance comprenant un échange post RDV."
-    progTexte3: "*- En support à distance, tout au long de l’année, correction et optimisation de votre CV, lettre de motivation et profil LinkedIn.*<br>- Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien LinkedIn."
+    etabText: "**Votre établissement (école, universitaire, profressionnel, CFA, etc.)** forme quelques uns des 750 000 étudiants qui sont en dernière année de cursus et qui vont arriver sur le marché de l’emploi ou des futurs stagiaires / alternants. Voulez-vous enrichir votre **offre de formation**, valoriser votre image d’**incubateur de futurs actifs** et booster vos **taux d’insertion professionnelle** ?<br>
+<br>
+En France, sur 2020, le nombre d’offres de stages a diminué de plus d'un tiers, le taux de chômage progresse davantage pour les jeunes que pour les autres tranches d’âge et le temps de recherche s’allonge.<br>
+<br>
+Nous intervenons auprès de vos **promotions** qui ont pour objectif de **décrocher leur stage**, **une alternance**, **ou le premier emploi**."
+    etabText2: "Avec un groupe de **10 à 20 étudiants**, partons pour **six heures d’animation (2x3h)** par notre binôme et d’**échanges** avec les étudiants sur l'ensemble de nos sujets d'expertise.<br>
+Tarif : nous consulter"
+    etudText: "Vous êtes **étudiants** et allez vivre une période de **transition** : l'aboutissement de vos études qui vous mènera vers votre stage, votre alternance et votre premier emploi.<br>
+<br>
+Les attentes autour de vous vont être multiples. Vous allez être observé(e) et jaugé(e) ! Comment bien se préparer pour traverser cette période ? Comment répondre aux attendus du marché ?  Quelles seront vos priorités ?<br>
+<br>
+Nous répondrons à toutes ces questions, et plus encore afin que vous échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous bénéficiez, avant la fin de vos études, **d’outils**, **de conseils**, **de partages d’expériences** sur le ou les thèmes de votre choix."
+    pareText: "Vous êtes **parents d’étudiants** et financez une partie ou en intégralité leurs études  et vous êtes forcément **soucieux** quand l’heure de l’entrée sur **le marché du travail** approche.<br>
+<br>
+En effet, les phases de recherches peuvent s’allonger et quand les démarches jouent les prolongations cela peut provoquer une perte de motivation chez les jeunes alors qu’il est nécessaire de rester dans l’action et garder le cap. Les études terminées c’est une nouvelle étape qui commence et mieux vaut être bien équipé et en phase avec son environnement pour être le plus efficient possible.<br>
+<br>
+Nous accompagnons les étudiants en fonction de leurs besoins."
+    etudText2: "En **entretien individuel**, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur nos sujets pendant **une heure quinze**.<br>
+Tarif : 48€ la séance comprenant un échange post RDV. Possibilité de tarif dégressif si plusieurs séances.<br>
+<br>
+En support **à distance**, tout au long de l’année, **correction et optimisation de votre CV**, **lettre de motivation et profil sur réseaux sociaux professionnels**.<br>
+Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien de la page profil. Possibilité de tarif dégressif pour plusieurs supports."
 
 presentation:
     title: "faisons connaissance"
