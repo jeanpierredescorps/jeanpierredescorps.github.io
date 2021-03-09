@@ -9,10 +9,10 @@ header.masthead {
 //  background-size: cover;
   background-color: #000;
   .intro-text {
-    padding-top: 180px;
-    padding-bottom: 50px;
+    padding-top: 120px;
+    padding-bottom: 10px;
     .intro-lead-in {
-      color: $gray-200;      
+      color: $gray-600;      
       font-size: 20px;
       font-style: italic;
       line-height: 20px;
@@ -28,7 +28,7 @@ header.masthead {
     }
   }
 }
-@media(min-width:768px) {
+@media(min-width:992px) {
   header.masthead {
     .intro-text {
       padding-top: 130px;
@@ -45,7 +45,7 @@ header.masthead {
       .intro-heading {
         font-size: 75px;
         font-weight: 700;
-        line-height: 200px;
+        line-height: 80px;
         margin-bottom: 20px;
         @include heading-font;
       }

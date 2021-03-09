@@ -3,7 +3,6 @@
   background-color: #000;
   .navbar-toggler {
     font-size: 12px;
-    right: 0;
     padding: 13px;
     text-transform: uppercase;
     color: white;
@@ -12,6 +11,9 @@
     @include heading-font;
   }
   .navbar-brand {
+    img {
+      height: 90px;
+    }
     color: $primary;
     @include script-font;
     &.active,
@@ -40,14 +42,17 @@
 }
 @media(min-width:992px) {
   #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: #000;
     .navbar-brand {
+      img {
+        height: 120px;
+      }
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
@@ -61,12 +66,15 @@
       }
     }
     &.navbar-shrink {
+      img {
+        height: 90px;
+      }
       padding-top: 0;
       padding-bottom: 0;
       background-color: #000;
       .navbar-brand {
         font-size: 1.25em;
-        padding: 12px 0;
+        padding: 10px 0;
       }
     }
   }
