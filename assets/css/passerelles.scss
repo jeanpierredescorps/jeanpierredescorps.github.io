@@ -23,6 +23,7 @@ $black: {{ site.data.style.black | default: "#000" }} !default;
 // Layout
 @import "layout/masthead.scss";
 @import "layout/enBref.scss";
+@import "layout/savoirFaire.scss";
 @import "layout/programme.scss";
 @import "layout/presentation.scss";
 @import "layout/temoignages.scss";
