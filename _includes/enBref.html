@@ -3,15 +3,16 @@
     <div class="container">
         <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.enBref.title | markdownify| default: "EN BREF" }}</h2>
       	<div class="row text-center">
-			<div class="col-md">
+			<div class="col-md-7">
 				<div class="text-muted text-left">{{ site.data.sitetext.enBref.pitch | markdownify }}</div>	
+				<img class="img-fluid rounded" src="{{ site.data.sitetext.enBref.imageCitation }}" alt=""></img>	
 			</div>
-			<div class="col-md">
+			<div class="col-md-3">
 				<img class="mx-auto rounded-circle" src="{{ site.data.sitetext.enBref.imageMeggie }}" alt=""></img>
 				<img class="mx-auto rounded-circle" src="{{ site.data.sitetext.enBref.imageAnneFred }}" alt=""></img>
 			</div>
 		</div>
-        <div class="text-primary text-left">{{ site.data.sitetext.enBref.citation | markdownify }}</div>	
+
     </div>
   </section>
 <!-- End Services -->
