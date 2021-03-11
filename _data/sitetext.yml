@@ -57,8 +57,8 @@ programme:
 En France, sur 2020, le nombre d’offres de stages a diminué de plus d'un tiers, le taux de chômage progresse davantage pour les jeunes que pour les autres tranches d’âge et le temps de recherche s’allonge.<br>
 <br>
 Nous intervenons auprès de vos **promotions** qui ont pour objectif de **décrocher leur stage**, **une alternance**, **ou le premier emploi**."
-    etabText2: "Avec un groupe de **10 à 20 étudiants**, partons pour **six heures d’animation (2x3h ou 3x2h)** et d'échanges avec notre binôme sur l'ensemble de nos sujets d'expertise.<br>
-Tarif : nous consulter"
+    etabText2: "Avec un groupe de **10 à 20 étudiants**, partons pour **six heures d’animation (2x3h ou 3x2h)** et d'échanges avec notre binôme sur l'ensemble de nos sujets d'expertise."
+    etabTarif: "Tarif : nous consulter"
     etudText: "Vous êtes **étudiants** et allez vivre une période de **transition** : l'aboutissement de vos études qui vous mènera vers votre stage, votre alternance et votre premier emploi.<br>
 <br>
 Les attentes autour de vous vont être multiples. Vous allez être observé(e) et jaugé(e) ! Comment bien se préparer pour traverser cette période ? Comment répondre aux attendus du marché ?  Quelles seront vos priorités ?<br>"
@@ -66,13 +66,11 @@ Les attentes autour de vous vont être multiples. Vous allez être observé(e) e
 <br>
 En effet, les phases de recherches peuvent s’allonger et quand les démarches jouent les prolongations cela peut provoquer une perte de motivation chez les jeunes alors qu’il est nécessaire de rester dans l’action et garder le cap. Les études terminées c’est une nouvelle étape qui commence et mieux vaut être bien équipé et en phase avec son environnement pour être le plus efficient possible.<br>"
     etudText2: "Nous répondrons à toutes ces questions, et plus encore afin que vous échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous bénéficiez, avant la fin de votre cursus, **d’outils**, **de conseils**, **de partages d’expériences** sur le ou les thèmes de votre choix.<br>
-Nous accompagnons les étudiants en fonction de leurs besoins.<br>
-<br>"
-    etudText3: "En **entretien individuel**, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur nos sujets pendant **une heure quinze**.<br>
-Tarif : 48€ la séance comprenant un échange post RDV. Possibilité de tarif dégressif si plusieurs séances.<br>
-<br>
-En support **à distance**, tout au long de l’année, **correction et optimisation de votre CV**, **lettre de motivation et profil sur réseaux sociaux professionnels**.<br>
-Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien de la page profil. Possibilité de tarif dégressif pour plusieurs supports."
+Nous accompagnons les étudiants en fonction de leurs besoins."
+    etudText3: "En **entretien individuel**, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur nos sujets pendant **une heure quinze**."
+    etudTarif1: "Tarif : 48€ la séance comprenant un échange post RDV. Possibilité de tarif dégressif si plusieurs séances."
+    etudText4: "En support **à distance**, tout au long de l’année, **correction et optimisation de votre CV**, **lettre de motivation et profil sur réseaux sociaux professionnels**."
+    etudTarif2 : "Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien de la page profil. Possibilité de tarif dégressif pour plusieurs supports."
 
 presentation:
     title: "faisons connaissance"

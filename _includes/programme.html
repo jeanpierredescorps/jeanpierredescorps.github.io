@@ -4,7 +4,9 @@
       <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.programme.title | default: "DEMANDEZ LE PROGRAMME" }}</h2>
       <h4 class="text-primary text-left">{{ site.data.sitetext.programme.etabTitle | markdownify| default: "EN BREF" }}</h4>
       <div class="text-muted text-left">{{ site.data.sitetext.programme.etabText | markdownify }}</div>	
-      <div class="text-primary text-left">{{ site.data.sitetext.programme.etabText2 | markdownify }}</div>	
+      <hr class="my-4">
+      <div class="text-muted text-left">{{ site.data.sitetext.programme.etabText2 | markdownify }}</div>	
+      <h5 class="text-primary text-left">{{ site.data.sitetext.programme.etabTarif | markdownify }}</h5>	
       <hr class="my-4">
       <h4 class="text-primary text-left">{{ site.data.sitetext.programme.etudTitle | markdownify| default: "EN BREF" }}</h4>
       <div class="row text-left">
@@ -16,7 +18,13 @@
         </div>
       </div>
       <div class="text-muted text-left">{{ site.data.sitetext.programme.etudText2 | markdownify }}</div>	
-      <div class="text-primary text-left">{{ site.data.sitetext.programme.etudText3 | markdownify }}</div>	
+      <hr class="my-4">
+      <div class="text-muted text-left">{{ site.data.sitetext.programme.etudText3 | markdownify }}</div>	
+      <div class="text-primary text-left">{{ site.data.sitetext.programme.etudTarif1 | markdownify }}</div>	
+      <hr class="my-4">
+      <div class="text-muted text-left">{{ site.data.sitetext.programme.etudText4 | markdownify }}</div>	
+      <div class="text-primary text-left">{{ site.data.sitetext.programme.etudTarif2 | markdownify }}</div>	
+      <hr class="my-4">
     </div>
   </section>
 <!-- End Services -->
