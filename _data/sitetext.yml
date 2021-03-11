@@ -19,6 +19,7 @@ du navire ; le bord du quai avec toute sa turbulence et sa confusion, c’est le
 <li>A distance et également en individuel, nous apportons une relecture aux supports de recherche (CV, LM et profil professionnel en ligne).</li>
 </ul>
 Dans cette dernière ligne droite et dans un **engagement** partagé, les étudiants gagneront **en temps, en énergie et en confiance** afin que cette **acculturation** soit la plus sereine et courte possible."
+    imageDuo: assets/img/team/duo.jpg
     imageMeggie: assets/img/team/meggie.jpg
     imageAnneFred: assets/img/team/anneFred.jpg
     imageCitation: assets/img/citationEnBref.png
@@ -80,7 +81,7 @@ presentation:
     imageMeggie: assets/img/team/meggie.jpg
     imageAnneFred: assets/img/team/anneFred.jpg
     AnneFred:
-        titre: "Anne-Frédérique GUILLOT"
+        titre: "Anne-Frédérique<br>GUILLOT"
         ref: "Ses références"  
         refTexte:
           "**Au quotidien**<br>
@@ -96,7 +97,7 @@ presentation:
           "De formation universitaire en sciences humaines,
 Anne-Frédérique a occupé des postes de chargée de recrutement en ESN essentiellement avant d’intégrer le service public de l’emploi. D’un poste à un autre, les fonctions et les activités sont variées mais souvent en lien avec les Ressources Humaines (aide au recrutement pour les entreprises clientes, recrutement de nouveaux collaborateurs PE, formatrice, manager de proximité). Mais aussi organisation de forums pour l’emploi, de job dating, d’évènements autour de la Formation professionnelle... Anne Frédérique est centrée aujourd’hui sur le Conseil en Evolution Professionnelle auprès d’un public jeune dans le cadre du plan gouvernemental, 1 jeune 1 solution."
     Meggie: 
-        titre: "Meggie BOUTTIER"
+        titre: "Meggie<br>BOUTTIER"
         ref: "Ses références"  
         refTexte:
           "• Réaliser des opérations de sourcing<br>
