@@ -18,15 +18,15 @@ title      : Passer(elles)
 email      : jeanpierredescorps@gmail.com #this is also the email contact forms will go to
 description: "Conseil et accompagnement des étudiants vers leur employabilité."
 author     : Jean-Pierre Descorps
-logo: #optional, defaults to site title
-  path: assets\img\logo.png
-  grand: 100 #height in px, defaults to 52px
-  petit: 52
+logo: assets\img\logo.png
+locale: fr_FR
 
 analytics:
   google: #Google Analytics tracking code here
 
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
 
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
