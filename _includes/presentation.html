@@ -4,9 +4,11 @@
    		<h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.presentation.title | default: "PRÉSENTATION" }}</h2>
       	<div class="row align-items-top">
 			<div class="col-md text-left">
-				<div class="row">
-					<img class="img-fluid rounded" src="{{ site.data.sitetext.presentation.imageAnneFred }}" alt="">
-	  				<h4 class="col-md text-primary text-left">{{ site.data.sitetext.presentation.AnneFred.titre | markdownify }}</h4>
+				<div class="row align-items-center">
+					<div class="col-md-4">
+						<img class="img-fluid rounded" src="{{ site.data.sitetext.presentation.imageAnneFred }}" alt="">
+					</div>
+	  				<h4 class="col-md-8 text-primary text-left">{{ site.data.sitetext.presentation.AnneFred.titre | markdownify }}</h4>
 		  		</div>	
   	  			<h4 class="text-muted">{{ site.data.sitetext.presentation.AnneFred.parcours | markdownify }}</h4>
 	  			<div class="text-muted text-justify">{{ site.data.sitetext.presentation.AnneFred.parcoursTexte | markdownify }}</div>
@@ -14,9 +16,11 @@
 	  			<div class="text-muted">{{ site.data.sitetext.presentation.AnneFred.refTexte | markdownify }}</div>
 			</div>
 			<div class="col-md text-left">
-				<div class="row">
-					<img class="img-fluid rounded" src="{{ site.data.sitetext.presentation.imageMeggie }}" alt="">
-					<h4 class="col-md text-primary text-left">{{ site.data.sitetext.presentation.Meggie.titre | markdownify }}</h4>
+				<div class="row align-items-center">
+					<div class="col-md-4">
+						<img class="img-fluid rounded" src="{{ site.data.sitetext.presentation.imageMeggie }}" alt="">
+					</div>
+					<h4 class="col-md-8 text-primary text-left">{{ site.data.sitetext.presentation.Meggie.titre | markdownify }}</h4>
 				</div>	  
 				<h4 class="text-muted">{{ site.data.sitetext.presentation.Meggie.parcours | markdownify }}</h4>
 				<div class="text-muted text-justify">{{ site.data.sitetext.presentation.Meggie.parcoursTexte | markdownify }}</div>
