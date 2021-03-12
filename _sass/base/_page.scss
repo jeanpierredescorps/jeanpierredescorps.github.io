@@ -46,11 +46,6 @@ h6 {
     text-transform: none;
     @include serif-font;
   }
-  h5 {
-    font-size: 14px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
 }
 @media(min-width:768px) {
   section {

@@ -4,28 +4,36 @@
    		<h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.presentation.title | default: "PRÉSENTATION" }}</h2>
       	<div class="row align-items-top">
 			<div class="col-md text-left">
+				<hr class="my-2">
 				<div class="row align-items-center">
 					<div class="col-md-4">
 						<img class="img-fluid rounded" src="{{ site.data.sitetext.presentation.imageAnneFred }}" alt="">
 					</div>
-	  				<h4 class="col-md-8 text-primary text-left">{{ site.data.sitetext.presentation.AnneFred.titre | markdownify }}</h4>
+	  				<h5 class="col-md-8 text-primary text-left">{{ site.data.sitetext.presentation.AnneFred.titre | markdownify }}</h5>
 		  		</div>	
-  	  			<h4 class="text-muted">{{ site.data.sitetext.presentation.AnneFred.parcours | markdownify }}</h4>
+				<hr class="my-2">  
+  	  			<h5 class="text-muted">{{ site.data.sitetext.presentation.AnneFred.parcours | markdownify }}</h5>
 	  			<div class="text-muted text-justify">{{ site.data.sitetext.presentation.AnneFred.parcoursTexte | markdownify }}</div>
-  	  			<h4 class="text-muted">{{ site.data.sitetext.presentation.AnneFred.ref | markdownify }}</h4>
+				<hr class="my-2">  
+  	  			<h5 class="text-muted">{{ site.data.sitetext.presentation.AnneFred.ref | markdownify }}</h5>
 	  			<div class="text-muted">{{ site.data.sitetext.presentation.AnneFred.refTexte | markdownify }}</div>
+				<hr class="my-2">
 			</div>
 			<div class="col-md text-left">
+				<hr class="my-2">
 				<div class="row align-items-center">
 					<div class="col-md-4">
 						<img class="img-fluid rounded" src="{{ site.data.sitetext.presentation.imageMeggie }}" alt="">
 					</div>
-					<h4 class="col-md-8 text-primary text-left">{{ site.data.sitetext.presentation.Meggie.titre | markdownify }}</h4>
-				</div>	  
-				<h4 class="text-muted">{{ site.data.sitetext.presentation.Meggie.parcours | markdownify }}</h4>
+					<h5 class="col-md-8 text-primary text-left">{{ site.data.sitetext.presentation.Meggie.titre | markdownify }}</h5>
+				</div>
+				<hr class="my-2">
+				<h5 class="text-muted">{{ site.data.sitetext.presentation.Meggie.parcours | markdownify }}</h5>
 				<div class="text-muted text-justify">{{ site.data.sitetext.presentation.Meggie.parcoursTexte | markdownify }}</div>
-				<h4 class="text-muted">{{ site.data.sitetext.presentation.Meggie.ref | markdownify }}</h4>
+				<hr class="my-2">
+				<h5 class="text-muted">{{ site.data.sitetext.presentation.Meggie.ref | markdownify }}</h5>
 				<div class="text-muted">{{ site.data.sitetext.presentation.Meggie.refTexte | markdownify }}</div>
+				<hr class="my-2">
 			</div>
     	</div>
     </div>
