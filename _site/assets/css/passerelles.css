@@ -66,9 +66,13 @@ section#enBref { background-color: #dee2e6; }
 
 section#enBref .section-heading { color: #000; }
 
+section#enBref .img-max { max-width: 300px; width: 100%; }
+
 section#savoirFaire { background-color: #ced4da; }
 
 section#savoirFaire .section-heading { color: #000; }
+
+section#savoirFaire h6 { font-size: 18px; margin-top: 0px; margin-bottom: 0px; line-height: 30px; text-transform: none; }
 
 section#programme { background-color: #dee2e6; }
 

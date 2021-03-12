@@ -29,7 +29,7 @@ savoirFaire:
     text: ""
     section: savoirFaire
     listTitle: "Les sujets d'expertise de Passer(elles)"
-    list: "
+    list1: "
     <ul>
       <li>Le projet professionnel</li>
       <li>La e-réputation</li>
@@ -37,6 +37,10 @@ savoirFaire:
       <li>Les compétences et le pitch</li>
       <li>Le CV</li>
       <li>La lettre de motivation</li>
+    </ul>
+    "
+    list2: "
+    <ul>
       <li>La candidature</li>
       <li>La pré qualification</li>
       <li>L’entretien</li>

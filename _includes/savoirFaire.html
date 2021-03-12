@@ -1,9 +1,18 @@
 <!-- EN BREF -->
   <section class="page-section" id="{{ site.data.sitetext.savoirFaire.section | default: savoirFaire }}">
     <div class="container">
-        <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.savoirFaire.title | markdownify| default: "Notre savoir faire" }}</h2>
-        <h4 class="text-primary text-left">{{ site.data.sitetext.savoirFaire.listTitle | markdownify}}</h4>
-		<div class="text-muted text-left font-weight-bold">{{ site.data.sitetext.savoirFaire.list | markdownify}}</div>
+      <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.savoirFaire.title | markdownify| default: "Notre savoir faire" }}</h2>
+      <h4 class="text-primary text-left">{{ site.data.sitetext.savoirFaire.listTitle | markdownify}}</h4>
+      <hr class="my-2">
+      <div class="row">
+        <div class="col-md-6">
+          <h6 class="text-muted text-left font-weight-bold">{{ site.data.sitetext.savoirFaire.list1 | markdownify}}</h6>
+        </div>  
+        <div class="col-md-6">
+          <h6 class="text-muted text-left font-weight-bold">{{ site.data.sitetext.savoirFaire.list2 | markdownify}}</h6>
+        </div>  
+      </div>
+      <hr class="my-2">
     </div>
   </section>
 <!-- End Services -->
