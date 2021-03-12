@@ -9,15 +9,14 @@
 			<div class="col-md-3">
 				<img class="img-fluid rounded" src="{{ site.data.sitetext.enBref.imageDuo }}" alt=""></img>
 			</div>
-			<div class="col-md-7">
-				<img class="img-fluid rounded" src="{{ site.data.sitetext.enBref.imageCitation }}" alt=""></img>
-			</div>
-			<div class="col-md-5">
-			</div>
-
-
 		</div>
-
+		<div class="row text-center">
+			<div class="col-md-9">
+				<hr class="my-2">
+				<div class="text-primary">{{ site.data.sitetext.enBref.citation | markdownify }}</div>	
+				<hr class="my-2">
+			</div>
+		</div>
     </div>
   </section>
 <!-- End Services -->

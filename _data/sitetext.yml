@@ -8,8 +8,8 @@ enBref:
     title: "En bref"
     text: ""
     section: enBref
-    citation: "*« Le passé, le continent sont déjà laissés en arrière ; le futur, c’est l’ouverture béante dans le flanc
-du navire ; le bord du quai avec toute sa turbulence et sa confusion, c’est le présent. Une fois la passerelle franchie, la vision du monde s’ordonne ...»*<br>Francis Scott Fitzgerald, Tendre est la nuit."
+    citation: "*« Le passé, le continent sont déjà laissés en arrière ;<br> le futur, c’est l’ouverture béante dans le flanc
+du navire ;<br> le bord du quai avec toute sa turbulence et sa confusion, c’est le présent.<br> Une fois la passerelle franchie, la vision du monde s’ordonne ...»*<br><br>Francis Scott Fitzgerald, Tendre est la nuit."
     pitch: "**Passer(elles)** est la collaboration de deux tourangelles de **terrain** avec pour quotidien **le conseil, la pédagogie, l’accompagnement, le recrutement et l’intégration professionnelle**.  Notre ambition ? La préparation des jeunes à leur **employabilité** face à un marché du travail en perpétuelle **évolution**.<br><br>
  Pour passer d’un monde à l’autre avec succès :<br>
 
@@ -50,7 +50,7 @@ programme:
     title: "DEMANDEZ LE PROGRAMME"
     text: ""
     section: programme
-    etabTitle: "Passer(elles) intervient auprès de vos promotions"
+    etabTitle: "Passer(elles) intervient dans les établissements auprès de vos promotions"
     etudTitle: "Passere(elles) accompagne les étudiants en fonction de leurs besoins"
     etabText: "**Votre établissement (école, universitaire, profressionnel, CFA, etc.)** forme quelques uns des 750 000 étudiants qui sont en dernière année de cursus et qui vont arriver sur le marché du travail ou des futurs stagiaires / alternants. Voulez-vous enrichir votre **offre de formation**, valoriser votre image d’**incubateur de futurs actifs** et booster vos **taux d’insertion professionnelle** ?<br>
 <br>
@@ -65,8 +65,7 @@ Les attentes autour de vous vont être multiples. Vous allez être observé(e) e
     pareText: "Vous êtes **parents** et financez une partie ou en intégralité leur scolarité  et vous êtes forcément **soucieux** quand l’heure de l’entrée sur **le marché du travail** approche.<br>
 <br>
 En effet, les phases de recherches peuvent s’allonger et quand les démarches jouent les prolongations cela peut provoquer une perte de motivation chez les jeunes alors qu’il est nécessaire de rester dans l’action et garder le cap. Les études terminées c’est une nouvelle étape qui commence et mieux vaut être bien équipé et en phase avec son environnement pour être le plus efficient possible.<br>"
-    etudText2: "Nous répondrons à toutes ces questions, et plus encore afin que vous échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous bénéficiez, avant la fin de votre cursus, **d’outils**, **de conseils**, **de partages d’expériences** sur le ou les thèmes de votre choix.<br>
-Nous accompagnons les étudiants en fonction de leurs besoins."
+    etudText2: "Nous répondrons à toutes ces questions, et plus encore afin que vous échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous bénéficiez, avant la fin de votre cursus, **d’outils**, **de conseils**, **de partages d’expériences** sur le ou les thèmes de votre choix."
     etudText3: "En **entretien individuel**, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur nos sujets pendant **une heure quinze**."
     etudTarif1: "Tarif : 48€ la séance comprenant un échange post RDV. Possibilité de tarif dégressif si plusieurs séances."
     etudText4: "En support **à distance**, tout au long de l’année, **correction et optimisation de votre CV**, **lettre de motivation et profil sur réseaux sociaux professionnels**."
