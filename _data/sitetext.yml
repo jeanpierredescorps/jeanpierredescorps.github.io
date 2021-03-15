@@ -5,7 +5,7 @@ header:
     buttonlink: "#enBref"
 
 enBref:
-    title: "En bref"
+    title: "Notre ambition"
     text: ""
     section: enBref
     citation: "*« Le passé, le continent sont déjà laissés en arrière ;<br> le futur, c’est l’ouverture béante dans le flanc
@@ -25,7 +25,7 @@ Dans cette dernière ligne droite et dans un **engagement** partagé, les étudi
     imageCitation: assets/img/citationEnBref.png
 
 savoirFaire:
-    title: "Notre savoir faire"
+    title: "Notre expertise"
     text: ""
     section: savoirFaire
     listTitle: "Les sujets d'expertise de Passer(elles)"
@@ -56,7 +56,7 @@ programme:
     section: programme
     etabTitle: "Passer(elles) intervient dans les établissements auprès de vos promotions"
     etudTitle: "Passere(elles) accompagne les étudiants en fonction de leurs besoins"
-    etabText: "**Votre établissement (école, universitaire, profressionnel, CFA, etc.)** forme quelques uns des 750 000 étudiants qui sont en dernière année de cursus et qui vont arriver sur le marché du travail ou des futurs stagiaires / alternants. Voulez-vous enrichir votre **offre de formation**, valoriser votre image d’**incubateur de futurs actifs** et booster vos **taux d’insertion professionnelle** ?<br>
+    etabText: "**Votre établissement (école, université, lycée professionnel, CFA, etc.)** forme quelques-uns des 750 000 étudiants qui sont en dernière année de cursus et qui vont arriver sur le marché du travail ou des futurs stagiaires / alternants. Voulez-vous enrichir votre **offre de formation**, valoriser votre image d’**incubateur de futurs actifs** et booster vos **taux d’insertion professionnelle** ?<br>
 <br>
 En France, sur 2020, le nombre d’offres de stages a diminué de plus d'un tiers, le taux de chômage progresse davantage pour les jeunes que pour les autres tranches d’âge et le temps de recherche s’allonge.<br>
 <br>
@@ -69,14 +69,14 @@ Les attentes autour de vous vont être multiples. Vous allez être observé(e) e
     pareText: "Vous êtes **parents** et financez une partie ou en intégralité leur scolarité  et vous êtes forcément **soucieux** quand l’heure de l’entrée sur **le marché du travail** approche.<br>
 <br>
 En effet, les phases de recherches peuvent s’allonger et quand les démarches jouent les prolongations cela peut provoquer une perte de motivation chez les jeunes alors qu’il est nécessaire de rester dans l’action et garder le cap. Les études terminées c’est une nouvelle étape qui commence et mieux vaut être bien équipé et en phase avec son environnement pour être le plus efficient possible.<br>"
-    etudText2: "Nous répondrons à toutes ces questions, et plus encore afin que vous échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous bénéficiez, avant la fin de votre cursus, **d’outils**, **de conseils**, **de partages d’expériences** sur le ou les thèmes de votre choix."
+    etudText2: "Nous répondrons à toutes ces questions, et plus encore afin que vous, étudiants, échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous bénéficiez, avant la fin de votre cursus, **d’outils**, **de conseils**, **de partages d’expériences** sur le ou les thèmes de votre choix."
     etudText3: "En **entretien individuel**, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur nos sujets pendant **une heure quinze**."
     etudTarif1: "Tarif : 48€ la séance comprenant un échange post RDV. Possibilité de tarif dégressif si plusieurs séances."
     etudText4: "En support **à distance**, tout au long de l’année, **correction et optimisation de votre CV**, **lettre de motivation et profil sur réseaux sociaux professionnels**."
     etudTarif2 : "Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien de la page profil. Possibilité de tarif dégressif pour plusieurs supports."
 
 presentation:
-    title: "faisons connaissance"
+    title: "Les présentations"
     text: ""
     section: presentation
     imageMeggie: assets/img/team/meggie.jpg
@@ -94,8 +94,7 @@ presentation:
            • Animation d’ateliers collectifs sur des thématiques autour de l’emploi et la formation professionnelle<br>"
         parcours: "Son parcours"
         parcoursTexte: 
-          "De formation universitaire en sciences humaines,
-Anne-Frédérique a occupé des postes de chargée de recrutement en ESN essentiellement avant d’intégrer le service public de l’emploi. D’un poste à un autre, les fonctions et les activités sont variées mais souvent en lien avec les Ressources Humaines (aide au recrutement pour les entreprises clientes, recrutement de nouveaux collaborateurs PE, formatrice, manager de proximité). Mais aussi organisation de forums pour l’emploi, de job dating, d’évènements autour de la Formation professionnelle... Anne Frédérique est centrée aujourd’hui sur le Conseil en Evolution Professionnelle auprès d’un public jeune dans le cadre du plan gouvernemental, 1 jeune 1 solution."
+          "De formation universitaire en sciences humaines, Anne-Frédérique a occupé des postes de chargée de recrutement en ESN avant d’intégrer le service public de l’emploi. D’un poste à un autre, les fonctions et les activités sont variées mais souvent en lien avec les Ressources Humaines (aide au recrutement pour les entreprises clientes, recrutement de nouveaux collaborateurs, formatrice, manager de proximité,). Mais aussi organisation de forums pour l’emploi, de job dating, d’événements autour de la formation professionnelle... Anne Frédérique est centrée aujourd’hui sur le Conseil en Evolution Professionnelle auprès d’un public jeune dans le cadre du plan gouvernemental, 1 jeune 1 solution."
     Meggie: 
         titre: "Meggie<br>BOUTTIER"
         ref: "Ses références"  
@@ -113,7 +112,7 @@ Anne-Frédérique a occupé des postes de chargée de recrutement en ESN essenti
           "Côté études, Meggie a obtenu deux masters dans la formation, l’accompagnement, l’emploi ainsi qu’un master professionnel axé commerce en formation continue plus récemment. Depuis 2013, Meggie travaille en tant que consultante ressources humaines et commerce au sein d’une entreprise de services du numérique. Elle recrute, intègre et place différents profils chez ses clients multisectoriels du coin. Elle intervient depuis plusieurs années dans les écoles et universités de la région afin de former les étudiants sur ces sujets et partager ses retours d’expérience."      
     
 temoignages:
-    title: "qu'en disent-ils ?" 
+    title: "Leurs témoignages" 
     text: ""
     section: temoignages
     videos: 
@@ -160,7 +159,7 @@ contact:
     section: contact
     subtitle1: "Rentrons en contact"
     subtitle2: "Suivez-nous"
-    mail: "passerelles@gmail.com"
+    mail: "contact@passerellestours.fr"
     tel: "0606060606"
     urllinked: https://linkedin.com
     iconlinked: "fab fa-linkedin-in"

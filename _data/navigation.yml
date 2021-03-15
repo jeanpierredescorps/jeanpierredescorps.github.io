@@ -1,14 +1,14 @@
 nav:
-  - title: "EN BREF"
+  - title: "AMBITION"
     section: enBref
 
-  - title: "SAVOIR FAIRE"
+  - title: "EXPERTISE"
     section: savoirFaire
 
   - title: "PROGRAMME"
     section: programme
     
-  - title: "PRÉSENTATON"
+  - title: "PRÉSENTATONS"
     section: presentation
 
   - title: "TÉMOIGNAGES"
