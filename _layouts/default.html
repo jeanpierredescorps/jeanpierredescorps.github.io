@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
 
+
   {% include head.html %}
 
   <body id="page-top">
 
-      {{ content }}
-
-	  {% include footer.html %}
+    {{ content }}
+	{% if page.title != "Privacy Policy" %}
+	  	{% include footer.html %}
+	{% endif %}
 
 	  <!-- Bootstrap core JavaScript -->
 	  <script src="assets/js/jquery.min.js"></script>

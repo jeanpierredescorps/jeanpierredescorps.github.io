@@ -1,12 +1,8 @@
 ---
 layout: default
 ---
-{% include navheader.html %}
-
-{% if page.background == "grey" or page.background == "gray" %}
-<script>
-document.getElementById("page-top").className="bg-light";
-</script>
+{% if page.title != "Privacy Policy" %}
+   {% include navheader.html %}
 {% endif %}
 
 <div class="container" id="pagecontainer">

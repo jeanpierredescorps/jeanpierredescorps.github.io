@@ -33,14 +33,16 @@
   <link href="assets/css/passerelles.css" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
   
-  <!-- Page container change top padding when nav shrinks -->
-  {% if page.layout == "page" %}
-  <style>
-    #pagecontainer {padding-top: 150px;}
-	@media only screen and (max-width: 991px) {
-	  #pagecontainer {padding-top: 100px;}
-	}
-  </style>
+  {% if page.title != "Privacy Policy" %}
+    <!-- Page container change top padding when nav shrinks -->
+    {% if page.layout == "page" %}
+    <style>
+      #pagecontainer {padding-top: 150px;}
+    @media only screen and (max-width: 991px) {
+      #pagecontainer {padding-top: 100px;}
+    }
+    </style>
+    {% endif %}
   {% endif %}
   
 </head>
