@@ -23,10 +23,10 @@ Dans cette dernière ligne droite et dans un **engagement** partagé, les étudi
     imageMeggie: assets/img/team/meggie.jpg
     imageAnneFred: assets/img/team/anneFred.jpg
 
-savoirFaire:
+expertise:
     title: "expertise"
     text: ""
-    section: savoirFaire
+    section: expertise
     listTitle: "Les sujets d'expertise de Passer(elles)"
     list1: "
     <ul>
@@ -159,7 +159,7 @@ contact:
     subtitle1: "Rentrons en contact"
     subtitle2: "Suivez-nous"
     mail: "contact@passerellestours.fr"
-    tel: "0606060606"
+    tel: "06..."
     urllinked: https://linkedin.com
     iconlinked: "fab fa-linkedin-in"
     urlinsta: https://instagram.com

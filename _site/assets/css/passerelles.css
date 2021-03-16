@@ -62,17 +62,17 @@ header.masthead .intro-text .intro-heading { font-size: 50px; font-weight: 700; 
 
 @media (min-width: 992px) { header.masthead .intro-text { padding-top: 130px; padding-bottom: 10px; } header.masthead .intro-text .intro-lead-in { color: #5f5f5f; font-size: 25px; font-style: italic; line-height: 60px; margin-top: 40px; margin-bottom: 20px; font-family: 'Cabin Sketch', 'Montserrat','Roboto Slab', 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; } header.masthead .intro-text .intro-heading { font-size: 75px; font-weight: 700; line-height: 80px; margin-bottom: 20px; font-family: 'Roboto Slab', 'Montserrat', 'Cabin Sketch', 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; } }
 
-section#enBref { background-color: #dee2e6; }
+section#ambition { background-color: #dee2e6; }
 
-section#enBref .section-heading { color: #000; }
+section#ambition .section-heading { color: #000; }
 
-section#enBref .img-max { max-width: 300px; width: 100%; }
+section#ambition .img-max { max-width: 300px; width: 100%; }
 
-section#savoirFaire { background-color: #ced4da; }
+section#expertise { background-color: #ced4da; }
 
-section#savoirFaire .section-heading { color: #000; }
+section#expertise .section-heading { color: #000; }
 
-section#savoirFaire h6 { font-size: 18px; margin-top: 0px; margin-bottom: 0px; line-height: 30px; text-transform: none; }
+section#expertise h6 { font-size: 18px; margin-top: 0px; margin-bottom: 0px; line-height: 30px; text-transform: none; }
 
 section#programme { background-color: #dee2e6; }
 
