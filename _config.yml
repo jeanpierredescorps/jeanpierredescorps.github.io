@@ -22,7 +22,7 @@ logo: assets\img\logo.png
 locale: fr_FR
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: 2377288015 #Google Analytics tracking code here
 
 markdown: kramdown
 plugins:
