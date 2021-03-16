@@ -2,12 +2,12 @@ header:
     title: "*« Avec les étudiants vers le monde professionnel »*"
     text: ""
     button: ""
-    buttonlink: "#enBref"
+    buttonlink: "#ambition"
 
-enBref:
+ambition:
     title: "ambition"
     text: ""
-    section: enBref
+    section: ambition
     citation: "*« Le passé, le continent sont déjà laissés en arrière ;<br> le futur, c’est l’ouverture béante dans le flanc
 du navire ;<br> le bord du quai avec toute sa turbulence et sa confusion, c’est le présent.<br> Une fois la passerelle franchie, la vision du monde s’ordonne ...»*<br><br>Francis Scott Fitzgerald, Tendre est la nuit."
     pitch: "**Passer(elles)** est la collaboration de deux tourangelles de **terrain** avec pour quotidien **le conseil, la pédagogie, l’accompagnement, le recrutement et l’intégration professionnelle**.  Notre ambition ? La préparation des jeunes à leur **employabilité** face à un marché du travail en perpétuelle **évolution**.<br><br>
@@ -22,7 +22,6 @@ Dans cette dernière ligne droite et dans un **engagement** partagé, les étudi
     imageDuo: assets/img/team/duo.jpg
     imageMeggie: assets/img/team/meggie.jpg
     imageAnneFred: assets/img/team/anneFred.jpg
-    imageCitation: assets/img/citationEnBref.png
 
 savoirFaire:
     title: "expertise"
