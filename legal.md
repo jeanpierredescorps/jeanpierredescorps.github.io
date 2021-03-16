@@ -7,7 +7,7 @@ background: $grey-600
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} {{page.title}}.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit Passer(elles).
 
 **PERSONAL INFORMATION WE COLLECT**
 
