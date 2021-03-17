@@ -46,6 +46,17 @@ h6 {
     text-transform: none;
     @include serif-font;
   }
+  h4 {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
+  h5 {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    @include serif-font;
+  }
 }
 @media(min-width:768px) {
   section {

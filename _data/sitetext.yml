@@ -27,7 +27,7 @@ expertise:
     title: "<h2>expertise</h2>"
     text: ""
     section: expertise
-    listTitle: "Les sujets d'expertise de Passer(elles)"
+    listTitle: "<h4>Les sujets d'expertise de Passer(elles)</h4>"
     list1: "
     <ul>
       <li>Le projet professionnel</li>
@@ -53,8 +53,8 @@ programme:
     title: "<h2>programme</h2>"
     text: ""
     section: programme
-    etabTitle: "Passer(elles) intervient dans les établissements auprès de vos promotions"
-    etudTitle: "Passere(elles) accompagne les étudiants en fonction de leurs besoins"
+    etabTitle: "<h4>Passer(elles) intervient dans les établissements auprès de vos promotions</h4>"
+    etudTitle: "<h4>Passere(elles) accompagne les étudiants en fonction de leurs besoins</h4>"
     etabText: "**Votre établissement (école, université, lycée professionnel, CFA, etc.)** forme quelques-uns des 750 000 étudiants qui sont en dernière année de cursus et qui vont arriver sur le marché du travail ou des futurs stagiaires / alternants. Voulez-vous enrichir votre **offre de formation**, valoriser votre image d’**incubateur de futurs actifs** et booster vos **taux d’insertion professionnelle** ?<br>
 <br>
 En France, sur 2020, le nombre d’offres de stages a diminué de plus d'un tiers, le taux de chômage progresse davantage pour les jeunes que pour les autres tranches d’âge et le temps de recherche s’allonge.<br>
@@ -81,8 +81,8 @@ presentation:
     imageMeggie: assets/img/team/meggie.jpg
     imageAnneFred: assets/img/team/anneFred.jpg
     AnneFred:
-        titre: "Anne-Frédérique<br>GUILLOT"
-        ref: "Ses références"  
+        titre: "<h5>Anne-Frédérique<br>GUILLOT</h5>"
+        ref: "<h5>Ses références</h5>"  
         refTexte:
           "• Accompagnement personnalisé de chercheurs d’emploi<br>
            • Conseil en évolution professionnelle<br>
@@ -91,12 +91,12 @@ presentation:
            • Aide au ciblage des offres et opportunités d’emplois<br>
            • Conseil autour des diverses techniques de recherches d’emploi<br>
            • Animation d’ateliers collectifs sur des thématiques autour de l’emploi et la formation professionnelle<br>"
-        parcours: "Son parcours"
+        parcours: "<h5>Son parcours</h5>"
         parcoursTexte: 
           "De formation universitaire en sciences humaines, Anne-Frédérique a occupé des postes de chargée de recrutement en ESN avant d’intégrer le service public de l’emploi. D’un poste à un autre, les fonctions et les activités sont variées mais souvent en lien avec les Ressources Humaines (aide au recrutement pour les entreprises clientes, recrutement de nouveaux collaborateurs, formatrice, manager de proximité,). Mais aussi organisation de forums pour l’emploi, de job dating, d’événements autour de la formation professionnelle... Anne Frédérique est centrée aujourd’hui sur le Conseil en Evolution Professionnelle auprès d’un public jeune dans le cadre du plan gouvernemental, 1 jeune 1 solution."
     Meggie: 
-        titre: "Meggie<br>BOUTTIER"
-        ref: "Ses références"  
+        titre: "<h5>Meggie<br>BOUTTIER</h5>"
+        ref: "<h5>Ses références</h5>"  
         refTexte:
           "• Réaliser des opérations de sourcing<br>
           • Recrutement de candidats tous niveaux<br>
@@ -106,7 +106,7 @@ presentation:
           • Intégration nouveaux collaborateurs<br>
           • Animation d’ateliers et de formation<br>
           • Dispense de cours en universités et écoles<br>"          
-        parcours: "Son parcours"
+        parcours: "<h5>Son parcours</h5>"
         parcoursTexte: 
           "Côté études, Meggie a obtenu deux masters dans la formation, l’accompagnement, l’emploi ainsi qu’un master professionnel axé commerce en formation continue plus récemment. Depuis 2013, Meggie travaille en tant que consultante ressources humaines et commerce au sein d’une entreprise de services du numérique. Elle recrute, intègre et place différents profils chez ses clients multisectoriels du coin. Elle intervient depuis plusieurs années dans les écoles et universités de la région afin de former les étudiants sur ces sujets et partager ses retours d’expérience."      
     
@@ -147,9 +147,9 @@ temoignages:
       - title: ""
         text: "trulu lu lu "
         img: assets/img/team/anneFred.jpg                                       
-    title1: "En vidéo :"
-    title2: "Leur anectode :"
-    title3: "Un conseil :"
+    title1: "<h3>Les entreprises :</h3>"
+    title2: "<h3>Les étudiants :</h3>"
+    title3: "<h3>Les recruteurs :</h3>"
 
           
 contact:
