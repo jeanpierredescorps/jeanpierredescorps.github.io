@@ -1,14 +1,14 @@
 <!-- PROGRAMME -->
   <section class="page-section" id="{{ site.data.sitetext.programme.section | default: "programme" }}">
     <div class="container">
-      <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.programme.title | default: "DEMANDEZ LE PROGRAMME" }}</h2>
-      <h4 class="text-primary text-left">{{ site.data.sitetext.programme.etabTitle | markdownify| default: "EN BREF" }}</h4>
+      <div class="text-uppercase text-left">{{ site.data.sitetext.programme.title | default: "PROGRAMME" }}</div>
+      <h4 class="text-primary text-left">{{ site.data.sitetext.programme.etabTitle | markdownify| default: "" }}</h4>
       <div class="text-muted text-left">{{ site.data.sitetext.programme.etabText | markdownify }}</div>	
       <hr class="my-2">
       <div class="text-muted text-left">{{ site.data.sitetext.programme.etabText2 | markdownify }}</div>	
       <div class="text-primary text-left">{{ site.data.sitetext.programme.etabTarif | markdownify }}</div>	
       <hr class="my-2">
-      <h4 class="text-primary text-left">{{ site.data.sitetext.programme.etudTitle | markdownify| default: "EN BREF" }}</h4>
+      <h4 class="text-primary text-left">{{ site.data.sitetext.programme.etudTitle | markdownify| default: "" }}</h4>
       <div class="row text-left">
         <div class="col-md">
           <div class="text-muted text-left">{{ site.data.sitetext.programme.etudText | markdownify }}</div>	
