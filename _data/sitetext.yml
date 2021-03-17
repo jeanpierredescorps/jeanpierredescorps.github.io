@@ -116,13 +116,13 @@ temoignages:
     section: temoignages
     videos: 
       - title: ""
-        url: "" #https://www.youtube.com/embed/wfxt1SGWAI8
+        url: "https://www.youtube.com/embed/wfxt1SGWAI8"
         who: "légende, nom prénom"
       - title: ""
-        url: "" #https://www.youtube.com/embed/km6gUbW8s28
+        url: "https://www.youtube.com/embed/km6gUbW8s28"
         who: "légende, nom prénom"
       - title: ""
-        url: "" #https://www.youtube.com/embed/j-48Xg2cKyg
+        url: "https://www.youtube.com/embed/j-48Xg2cKyg"
         who: "légende, nom prénom"
     anecdotes: 
       - title: ""
