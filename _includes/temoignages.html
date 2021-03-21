@@ -6,7 +6,9 @@
             <div class="text-uppercase text-left mb-4">{{ site.data.sitetext.temoignages.title | default: "TÉMOIGNAGES" }}</div>
           </div>
         </div>
-        <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title1" }}</div>   
+        <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title1" }}</div>
+
+    
           <!--{%- for post in site.data.sitetext.temoignages.videos -%}
             <div class="col-md">
               <div class="embed-responsive embed-responsive-16by9">
@@ -16,7 +18,20 @@
             </div>
           {% endfor %}-->
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title2" }}</div>         
+        <div class="row text-center align-items-center">
+          {%- for post in site.data.sitetext.temoignages.etudiants -%}
+            <div class="col-md-3">
+              <div class="text-primary">{{ post.text | markdownify }}</div>	
+            </div>
+          {% endfor %}
+        </div>
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title3" }}</div>   
+        <div class="row align-items-center">
+          {%- for post in site.data.sitetext.temoignages.parents -%}
+              <div class="col-md-3 text-dark text-left">{{ post.qui | markdownify }}</div>	
+              <div class="col-md-9 text-primary text-justify">{{ post.text | markdownify }}</div>	
+          {% endfor %}
+        </div>
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title4" }}</div>   
       </div>
   </section>

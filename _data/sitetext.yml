@@ -114,6 +114,28 @@ temoignages:
     title: "<h2>témoignages</h2>" 
     text: ""
     section: temoignages
+    etudiants:
+      - text: "*« Nous ont permis de progresser »*"
+      - text: "*« Très enrichissant »*"
+      - text: "*« Super »*"
+      - text: "*« Très instructif »*"
+      - text: "*« Dynamique »*"
+      - text: "*« Conseils très pertinents »*"
+      - text: "*« Suffisamment personnalisé »*"
+      - text: "*« Très complet »*"
+      - text: "*« Intervenantes très intéressantes »*"
+      - text: "*« Très bien orchestré »*"
+      - text: "*« Nous a été d'une grande d'aide »*"
+      - text: "*« Très bon cours »*"
+      - text: "*« Nécessaire »*"
+      - text: "*« Chargées de cours très investies »*"
+    parents:
+      - text: "*« Mes deux fils ont bénéficié de ce suivi. Je suis médecin, je n'ai jamais eu à faire un CV ou même passer un entretien d'embauche. Ces quelques heures nous ont rassurés et le résultat ne s'est pas fait attendre ! »*"
+        qui: "Géraldine S. :"
+      - text: "*« Une heure a suffit pour que mon fils Gabin ait le déclic, il a eu des échecs dans sa recherche, mais il avait un plan de bataille qu'il n'a jamais lâché »*"
+        qui: "Arnaud B. :"
+      - text: "*« A choisir entre deux écoles équivalentes, nous irons probablement vers celle qui forme ma fille au delà du diplôme et qui intègre une préparation à la recherche d'emploi »*"
+        qui: "Marie-Louise P. :"
     videos: 
       - title: ""
         url: "https://www.youtube.com/embed/wfxt1SGWAI8"
