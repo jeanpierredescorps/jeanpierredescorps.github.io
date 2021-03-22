@@ -3,7 +3,14 @@
     <div class="container">
       <div class="text-uppercase text-justify">{{ site.data.sitetext.programme.title | default: "PROGRAMME" }}</div>
       <div class="text-primary text-justify">{{ site.data.sitetext.programme.etabTitle | markdownify| default: "" }}</div>
-      <div class="text-muted text-justify">{{ site.data.sitetext.programme.etabText | markdownify }}</div>	
+      <div class=row>
+      <div class="col-md-5">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="{{ site.data.sitetext.programme.etabUrl }}" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-md-7 text-muted text-justify">{{ site.data.sitetext.programme.etabText | markdownify }}</div>	
+    </div>
       <hr class="my-2">
       <div class="text-muted text-justify">{{ site.data.sitetext.programme.etabText2 | markdownify }}</div>	
       <div class="text-primary text-justify">{{ site.data.sitetext.programme.etabTarif | markdownify }}</div>	

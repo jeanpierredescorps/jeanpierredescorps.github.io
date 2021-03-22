@@ -61,6 +61,7 @@ En France, sur 2020, le nombre d’offres de stages a diminué de plus d'un tier
 Nous intervenons auprès de vos **promotions** qui ont pour objectif de **décrocher leur stage**, **une alternance**, **ou le premier emploi**."
     etabText2: "Avec un groupe de **10 à 20 étudiants**, partons pour **6 heures d’animation (2x3h ou 3x2h)** et d'échanges avec notre binôme sur l'ensemble de nos sujets d'expertise."
     etabTarif: "Tarif : nous consulter"
+    etabUrl: "https://www.youtube.com/embed/jduU5E16oUE"
     etudText: "Vous êtes **étudiants** et allez vivre une période de **transition** : l'aboutissement de vos études qui vous mènera vers votre stage, votre alternance et votre premier emploi.<br>
 <br>
 Les attentes autour de vous vont être multiples. Vous allez être observé(e) et jaugé(e) ! Comment bien se préparer pour traverser cette période ? Comment répondre aux attendus du marché ?  Quelles seront vos priorités ?<br>"
@@ -117,7 +118,6 @@ temoignages:
     etudiants:
       - text: "*« Nous ont permis de progresser »*"
       - text: "*« Très enrichissant »*"
-      - text: "*« Super »*"
       - text: "*« Très instructif »*"
       - text: "*« Dynamique »*"
       - text: "*« Conseils très pertinents »*"
@@ -126,7 +126,6 @@ temoignages:
       - text: "*« Intervenantes très intéressantes »*"
       - text: "*« Très bien orchestré »*"
       - text: "*« Nous a été d'une grande d'aide »*"
-      - text: "*« Très bon cours »*"
       - text: "*« Nécessaire »*"
       - text: "*« Chargées de cours très investies »*"
     parents:
