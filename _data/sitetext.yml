@@ -73,9 +73,9 @@ Les attentes autour de vous vont être multiples. Vous allez être observé(e) e
 En effet, les phases de recherches peuvent s’allonger et quand les démarches jouent les prolongations cela peut provoquer une perte de motivation chez les jeunes alors qu’il est nécessaire de rester dans l’action pour garder le cap. Les études terminées c’est une nouvelle étape qui commence et mieux vaut être bien équipé et en phase avec son environnement pour être le plus efficient possible.<br>"
     etudText2: "Nous répondrons à toutes ces questions, et plus encore afin que vous, étudiants, échappiez à cette pression et que vous soyez concentré(e) sur vous ! Vous bénéficiez, avant la fin de votre cursus, **d’outils**, **de conseils et d'entraînements**, **de partages d’expériences** sur le ou les thèmes de votre choix."
     etudText3: "En **entretien individuel**, à domicile, dans un lieu neutre ou à distance avec une consultante pour une prestation à la carte sur nos sujets pendant **1h15**."
-    etudTarif1: "Tarif : 48€ la séance comprenant un échange post RDV. Possibilité de tarif dégressif si plusieurs séances."
+    etudTarif1: "Tarif : 48€ la séance comprenant un échange post RDV. Tarif dégressif si plusieurs séances."
     etudText4: "En support **à distance**, tout au long de l’année, **correction et optimisation de votre CV**, **lettre de motivation et profil sur réseaux sociaux professionnels**."
-    etudTarif2 : "Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien de la page profil. Possibilité de tarif dégressif pour plusieurs supports."
+    etudTarif2 : "Tarif : 16€ par support comprenant un retour écrit et détaillé, dans les 72 heures suivant la réception du document au format PDF ou du lien de la page profil. Tarif dégressif pour plusieurs supports."
 
 presentation:
     title: "<h2>présentations</h2>"
@@ -118,6 +118,11 @@ temoignages:
     title: "<h2>témoignages</h2>" 
     text: ""
     section: temoignages
+    etablissements:
+      - text: "*« Le coaching pour l’insertion professionnelle des jeunes diplômés est un exercice bien subtil. On ne s’y aventure pas efficacement sans expérience diverses et pratique du terrain d’autant que le monde du travail et les pratiques des entreprises dans leurs recrutements évoluent très vite.<br><br>
+Il faut des trésors d’écoute et de communication pour mettre les étudiants  en confiance,  et surtout les amener à prendre conscience… du rôle actif qui est le leur pour se démarquer à diplôme équivalent afin de susciter l’intérêt du recruteur. L’expertise en entreprise de Meggie Bouttier sur les aspects RH et sa connaissance pratique des métiers innovants du numérique sont des atouts indéniables qu’elle sait habilement partager avec les futurs stagiaires ou diplômés.<br><br>
+Les ateliers tantôt individuels ou bien collaboratifs rappellent bien sûr les exigences de rigueur dans la préparation des communications écrites (CV et lettre de motivation), orales (entrainement aux entretiens), numériques (réseaux), mais ils vont bien au-delà ils encouragent chacun à être un acteur clairvoyant, modeste mais déterminé de son destin. »*"
+        qui: "Alain Bousquet Direction Mécen Master Économiste d’entreprise Université de Tours"
     etudiants:
       - text: "*« Nous ont permis de progresser »*"
       - text: "*« Très enrichissant »*"
@@ -171,7 +176,7 @@ temoignages:
       - title: ""
         text: "trulu lu lu "
         img: assets/img/team/anneFred.jpg                                       
-    title1: "<h3>Les établissements... à venir</h3>"
+    title1: "<h3>Les établissements</h3>"
     title2: "<h3>Les étudiants</h3>"
     title3: "<h3>Les parents</h3>"
     title4: "<h3>Les recruteurs... à venir</h3>"

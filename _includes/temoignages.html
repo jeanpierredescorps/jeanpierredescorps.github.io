@@ -7,7 +7,14 @@
           </div>
         </div>
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title1" }}</div>
-
+        <div class="row align-items-center">
+          {%- for post in site.data.sitetext.temoignages.etablissements -%}
+            <div class="col-md-12">
+              <div class="text-dark text-left">{{ post.qui | markdownify }}</div>	
+              <div class="text-justify text-muted">{{ post.text | markdownify }}</div>	
+            </div>
+          {% endfor %}
+        </div>
     
           <!--{%- for post in site.data.sitetext.temoignages.videos -%}
             <div class="col-md">
