@@ -121,8 +121,8 @@ temoignages:
     etablissements:
       - text: "*« Le coaching pour l’insertion professionnelle des jeunes diplômés est un exercice bien subtil. On ne s’y aventure pas efficacement sans expérience diverses et pratique du terrain d’autant que le monde du travail et les pratiques des entreprises dans leurs recrutements évoluent très vite.<br><br>
 Il faut des trésors d’écoute et de communication pour mettre les étudiants  en confiance,  et surtout les amener à prendre conscience… du rôle actif qui est le leur pour se démarquer à diplôme équivalent afin de susciter l’intérêt du recruteur. L’expertise en entreprise de Meggie Bouttier sur les aspects RH et sa connaissance pratique des métiers innovants du numérique sont des atouts indéniables qu’elle sait habilement partager avec les futurs stagiaires ou diplômés.<br><br>
-Les ateliers tantôt individuels ou bien collaboratifs rappellent bien sûr les exigences de rigueur dans la préparation des communications écrites (CV et lettre de motivation), orales (entrainement aux entretiens), numériques (réseaux), mais ils vont bien au-delà ils encouragent chacun à être un acteur clairvoyant, modeste mais déterminé de son destin. »*"
-        qui: "Alain Bousquet Direction Mécen Master Économiste d’entreprise Université de Tours"
+Les ateliers tantôt individuels ou bien collaboratifs rappellent bien sûr les exigences de rigueur dans la préparation des communications écrites (CV et lettre de motivation), orales (entrainement aux entretiens), numériques (réseaux), mais ils vont bien au-delà ils encouragent chacun à être un acteur clairvoyant, modeste mais déterminé de son destin. »*<br>"
+        qui: "Alain BOUSQUET Direction Mécen Master Économiste d’entreprise Université de Tours"
     etudiants:
       - text: "*« Nous ont permis de progresser »*"
       - text: "*« Très enrichissant »*"
@@ -138,48 +138,18 @@ Les ateliers tantôt individuels ou bien collaboratifs rappellent bien sûr les 
       - text: "*« Chargées de cours très investies »*"
     parents:
       - text: "*« Mes deux fils ont bénéficié de ce suivi. Je suis médecin, je n'ai jamais eu à faire un CV ou même passer un entretien d'embauche. Ces quelques heures nous ont rassurés et le résultat ne s'est pas fait attendre ! »*"
-        qui: "Géraldine S. :"
+        qui: "Géraldine S."
       - text: "*« Une heure a suffit pour que mon fils Gabin ait le déclic, il a eu des échecs dans sa recherche, mais il avait un plan de bataille qu'il n'a jamais lâché »*"
-        qui: "Arnaud B. :"
+        qui: "Arnaud B."
       - text: "*« A choisir entre deux écoles équivalentes, nous irons probablement vers celle qui forme ma fille au delà du diplôme et qui intègre une préparation à la recherche d'emploi »*"
-        qui: "Marie-Louise P. :"
-    videos: 
-      - title: ""
-        url: "https://www.youtube.com/embed/wfxt1SGWAI8"
-        who: "légende, nom prénom"
-      - title: ""
-        url: "https://www.youtube.com/embed/km6gUbW8s28"
-        who: "légende, nom prénom"
-      - title: ""
-        url: "https://www.youtube.com/embed/j-48Xg2cKyg"
-        who: "légende, nom prénom"
-    anecdotes: 
-      - title: ""
-        text: "blabla blablalba"
-        img: assets/img/team/anneFred.jpg
-      - title: ""
-        text: "blabla blablalba"
-        img: assets/img/team/meggie.jpg
-      - title: ""
-        text: "blabla blablalba"
-        img: assets/img/team/anneFred.jpg
-      - title: ""
-        text: "blabla blablalba"
-        img: assets/img/team/meggie.jpg
-    conseils: 
-      - title: ""
-        text: "trulu lu lu "
-        img: assets/img/team/anneFred.jpg     
-      - title: ""
-        text: "trulu lu lu "
-        img: assets/img/team/anneFred.jpg 
-      - title: ""
-        text: "trulu lu lu "
-        img: assets/img/team/anneFred.jpg                                       
+        qui: "Marie-Louise P."       
+    recruteurs:
+      - video: "https://www.youtube.com/embed/vJ9GDIU-eoU"
+        qui: "Franck SEITHER<br> Directeur du GIP L'Ecocité de La Réunion"                            
     title1: "<h3>Les établissements</h3>"
     title2: "<h3>Les étudiants</h3>"
     title3: "<h3>Les parents</h3>"
-    title4: "<h3>Les recruteurs... à venir</h3>"
+    title4: "<h3>Les recruteurs</h3>"
 
           
 contact:

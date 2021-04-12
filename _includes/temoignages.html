@@ -6,24 +6,17 @@
             <div class="text-uppercase text-left mb-4">{{ site.data.sitetext.temoignages.title | default: "TÉMOIGNAGES" }}</div>
           </div>
         </div>
+        <hr class="my-2">
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title1" }}</div>
         <div class="row align-items-center">
           {%- for post in site.data.sitetext.temoignages.etablissements -%}
             <div class="col-md-12">
-              <div class="text-dark text-left">{{ post.qui | markdownify }}</div>	
+              <div class="text-dark text-left"><h5>{{ post.qui | markdownify }}</h5></div>	
               <div class="text-justify text-muted">{{ post.text | markdownify }}</div>	
             </div>
           {% endfor %}
         </div>
-    
-          <!--{%- for post in site.data.sitetext.temoignages.videos -%}
-            <div class="col-md">
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="{{ post.url }}" allowfullscreen></iframe>
-              </div>
-              <div class="text-muted text-justify">{{ post.who | markdownify }}</div>	
-            </div>
-          {% endfor %}-->
+        <hr class="my-2">
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title2" }}</div>         
         <div class="row text-center align-items-center">
           {%- for post in site.data.sitetext.temoignages.etudiants -%}
@@ -32,14 +25,28 @@
             </div>
           {% endfor %}
         </div>
+        <hr class="my-2">
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title3" }}</div>   
         <div class="row align-items-center">
           {%- for post in site.data.sitetext.temoignages.parents -%}
-              <div class="col-md-2 text-dark text-left">{{ post.qui | markdownify }}</div>	
-              <div class="col-md-10 text-muted text-justify">{{ post.text | markdownify }}</div>	
+              <div class="col-md-3 text-dark text-left"><h5>{{ post.qui | markdownify }}</h5></div>	
+              <div class="col-md-9 text-muted text-justify">{{ post.text | markdownify }}</div>	
           {% endfor %}
         </div>
+        <hr class="my-2">
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title4" }}</div>   
+        <div class="row align-items-center">
+          {%- for post in site.data.sitetext.temoignages.recruteurs -%}
+              <div class="col-md-6 text-dark text-left"><h5>{{ post.qui | markdownify }}</h5></div>	
+              <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-1by1">
+                  <iframe class="embed-responsive-item" src="{{ post.video }}" allowfullscreen></iframe>
+                </div>
+              </div>
+              <div class="col-md-2"></div>
+          {% endfor %}
+        </div>
+        <hr class="my-2">
       </div>
   </section>
 <!-- End Services -->
