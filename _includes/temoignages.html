@@ -8,14 +8,11 @@
         </div>
         <hr class="my-2">
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title1" }}</div>
-        <div class="row align-items-center">
           {%- for post in site.data.sitetext.temoignages.etablissements -%}
-            <div class="col-md-12">
-              <div class="text-dark text-left"><h5>{{ post.qui | markdownify }}</h5></div>	
+              <h6 class="text-primary">{{ post.qui | markdownify }}</h6>
+              <div class="text-primary">{{ post.fonction | markdownify }}</div>	
               <div class="text-justify text-muted">{{ post.text | markdownify }}</div>	
-            </div>
           {% endfor %}
-        </div>
         <hr class="my-2">
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title2" }}</div>         
         <div class="row text-center align-items-center">
@@ -29,15 +26,18 @@
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title3" }}</div>   
         <div class="row align-items-center">
           {%- for post in site.data.sitetext.temoignages.parents -%}
-              <div class="col-md-3 text-dark text-left"><h5>{{ post.qui | markdownify }}</h5></div>	
-              <div class="col-md-9 text-muted text-justify">{{ post.text | markdownify }}</div>	
+              <h6 class="col-md-12 text-primary text-left">{{ post.qui | markdownify }}</h6>	
+              <div class="col-md-12 text-muted text-justify">{{ post.text | markdownify }}</div>	
           {% endfor %}
         </div>
         <hr class="my-2">
         <div class="section-subheading text-left mb-4">{{ site.data.sitetext.temoignages.title4" }}</div>   
         <div class="row align-items-center">
           {%- for post in site.data.sitetext.temoignages.recruteurs -%}
-              <div class="col-md-6 text-dark text-left"><h5>{{ post.qui | markdownify }}</h5></div>	
+              <div class="col-md-6 text-dark text-left">
+                <h6 class="text-primary">{{ post.qui | markdownify }}</h6>
+                <div class="text-primary">{{ post.fonction | markdownify }}</div>	  
+              </div>	
               <div class="col-md-4">
                 <div class="embed-responsive embed-responsive-1by1">
                   <iframe class="embed-responsive-item" src="{{ post.video }}" allowfullscreen></iframe>
